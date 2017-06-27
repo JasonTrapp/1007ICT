@@ -1,3 +1,4 @@
+;Program to sort an array
 	bra	start
 	.org	$10
 dataArr	.byte	2,5,7,4,3,0
